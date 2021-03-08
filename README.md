@@ -26,9 +26,9 @@
 그림1. PCA, T-SNE Cluster 시각화 결과
 ![image](https://user-images.githubusercontent.com/57992071/110309414-a89e2500-8044-11eb-805e-9add2466c2be.png)
 
+그림2. 청원내용 (text)과 투표 수(vote)   
+![image](https://user-images.githubusercontent.com/57992071/110309512-c7042080-8044-11eb-8384-17df04a9b7b7.png)
+
 표1. 각 Cluster의 상위 키워드 추출
 ![image](https://user-images.githubusercontent.com/57992071/110309457-b5bb1400-8044-11eb-849d-38bac8261db2.png)
 ![image](https://user-images.githubusercontent.com/57992071/110309476-bce22200-8044-11eb-9c7d-797c7fa227ae.png)
-
-그림2. 청원내용 (text)과 투표 수(vote)   
-![image](https://user-images.githubusercontent.com/57992071/110309512-c7042080-8044-11eb-8384-17df04a9b7b7.png)
